@@ -43,3 +43,8 @@ git clone https://github.com/samueldanesi/registratore_virtuale.git
 cd registratore_virtuale
 flutter pub get
 flutter run
+
+## 📄 Licenza
+
+Questo progetto è distribuito sotto licenza MIT.  
+Puoi liberamente usarlo, modificarlo e distribuirlo, a patto che venga sempre citato l'autore originale (**Samuel Danesi**).
