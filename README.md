@@ -30,7 +30,14 @@ Ideale per bar, ristoranti e attività locali che desiderano **gestire scontrini
 
 ---
 
+## 📸 Anteprime dell'app
 
+<p align="center">
+  <img src="Screenshot%202025-04-15%20alle%2014.11.03.png" width="300" />
+  <img src="Screenshot%202025-04-15%20alle%2014.11.10.png" width="300" />
+  <img src="Screenshot%202025-04-15%20alle%2014.11.20.png" width="300" />
+  <img src="Screenshot%202025-04-15%20alle%2014.11.26.png" width="300" />
+</p>
 
 
 ## ⚠️ Copyright
