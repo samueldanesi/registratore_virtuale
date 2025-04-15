@@ -30,21 +30,8 @@ Ideale per bar, ristoranti e attività locali che desiderano **gestire scontrini
 
 ---
 
-## 📷 Screenshot
 
-*Aggiungi qui delle immagini o GIF dell'app in funzione per mostrare l'interfaccia.*
 
----
-
-## 📦 Installazione (per sviluppatori)
-
-```bash
-git clone https://github.com/samueldanesi/registratore_virtuale.git
-cd registratore_virtuale
-flutter pub get
-flutter run
-
----
 
 ## ⚠️ Copyright
 
