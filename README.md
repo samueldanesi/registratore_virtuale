@@ -44,7 +44,9 @@ cd registratore_virtuale
 flutter pub get
 flutter run
 
-## 📄 Licenza
+---
 
-Questo progetto è distribuito sotto licenza MIT.  
-Puoi liberamente usarlo, modificarlo e distribuirlo, a patto che venga sempre citato l'autore originale (**Samuel Danesi**).
+## ⚠️ Copyright
+
+Tutti i diritti riservati © 2025 Samuel Danesi.  
+Il codice sorgente non può essere copiato, distribuito, modificato o utilizzato senza autorizzazione scritta dell'autore.
